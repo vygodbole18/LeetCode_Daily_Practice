@@ -16,8 +16,8 @@ Welcome to my LeetCode Daily Practice repository! Here, I solve two LeetCode pro
 ### **December 2024**
 | Date       | Question 1                               | Question 2                                | Status    |
 |------------|------------------------------------------|-------------------------------------------|-----------|
-| Dec 23     | [Remove Duplicates II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ Done |
-| Dec 24     | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Planned |
+| Dec 24     | [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) | [Remove Element](https://leetcode.com/problems/remove-element/) | ✅ Done |
+| Dec 25     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | ✅ Done |
 
 ---
 
