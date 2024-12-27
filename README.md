@@ -18,6 +18,7 @@ Welcome to my LeetCode Daily Practice repository! Here, I solve two LeetCode pro
 |------------|------------------------------------------|-------------------------------------------|-----------|
 | Dec 24     | [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) | [Remove Element](https://leetcode.com/problems/remove-element/) | ✅ Done |
 | Dec 25     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | ✅ Done |
+| Dec 26     | [Majority Element](https://leetcode.com/problems/majority-element/) |  | ✅ Done |
 
 ---
 
