@@ -1,5 +1,5 @@
 # Problem: Remove duplicates from sorted arrays II
-- **Difficulty**: Easy
+- **Difficulty**: Medium
 - **Link**: [LeetCode Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 
 ---
