@@ -20,7 +20,7 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 | Dec 25     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | ✅ Done |
 | Dec 26     | [Majority Element](https://leetcode.com/problems/majority-element/) |  | ✅ Done |
 | Dec 27     | [Rotate Array](https://leetcode.com/problems/rotate-array/) |  | ✅ Done |
-| Dec 31     | [Buy_Sell_Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |     | ✅ Done |
+| Dec 31     | [Buy_Sell_Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  [Buy_Sell_Stock_II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)   | ✅ Done |
         
 ---
 
