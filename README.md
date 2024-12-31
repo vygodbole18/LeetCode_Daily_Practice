@@ -8,7 +8,7 @@ Welcome to my LeetCode Daily Practice repository! Here, I solve two LeetCode pro
 1. I solve 2 LeetCode questions daily.
 2. Problems are categorized by topic and stored in relevant folders.
 3. Each solution is accompanied by a description of my approach, time/space complexity, and lessons learned.
-
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 ---
 
 ## **Progress Tracker**
@@ -20,6 +20,7 @@ Welcome to my LeetCode Daily Practice repository! Here, I solve two LeetCode pro
 | Dec 25     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | ✅ Done |
 | Dec 26     | [Majority Element](https://leetcode.com/problems/majority-element/) |  | ✅ Done |
 | Dec 27     | [Rotate Array](https://leetcode.com/problems/rotate-array/) |  | ✅ Done |
-
+| Dec 31     | [Buy_Sell_Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |     | ✅ Done |
+        
 ---
 
